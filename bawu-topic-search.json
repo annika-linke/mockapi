@@ -1,0 +1,44 @@
+{
+  "topics": [
+    {
+      "text": "# Hochschule",
+      "link": "http://google.de"
+    },
+    {
+      "text": "# Hochschulforschung",
+      "link": "#"
+    },
+    {
+      "text": "# Hochschule für angewandte Wissenschaften",
+      "link": "#"
+    },
+    {
+      "text": "# Duale Hochschule Baden-Württemberg",
+      "link": "#"
+    },
+    {
+      "text": "# Pädagogische Hochschule",
+      "link": "#"
+    },
+    {
+      "text": "# Kunst- und Musikhochschulen",
+      "link": "#"
+    },
+    {
+      "text": "# Nicht-staatliche Hochschulen",
+      "link": "#"
+    },
+    {
+      "text": "# Landeverfassung",
+      "link": "#"
+    },
+    {
+      "text": "# Verfassungsorgane",
+      "link": "#"
+    },
+    {
+      "text": "# Verfassungsgerichtshof",
+      "link": "#"
+    }
+  ]
+}
