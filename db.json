@@ -1,6 +1,5 @@
-{
-  "topics": {
-    "topics": [
+"topics": {
+  [
     {
       "text": "# Hochschule",
       "link": "http://google.de"
@@ -41,16 +40,5 @@
       "text": "# Verfassungsgerichtshof",
       "link": "#"
     }
-  ],
-  "synonyms": [
-    {
-      "tag": "Landesverfassung",
-      "link": "https://bp-t38.web02.bw-dev.rsm-development.de/de/mitmachen/lp-16/aenderung-landesverfassungsschutzgesetz/"
-    },
-    {
-      "tag": "Verfassung",
-      "link": "#"
-    }
   ]
- }
 }
